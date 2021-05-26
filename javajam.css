@@ -134,7 +134,7 @@ border-top: 2px solid #8C3826;
 {
 @supports (display: grid) {
   header { grid-area: header; }
-  nav  { grid-area: nave; }
+  nav  { grid-area: nav; }
   main { grid-area: main; }
   footer { grid-area: footer; }
   #wrapper {
